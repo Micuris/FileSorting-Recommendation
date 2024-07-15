@@ -1,0 +1,9 @@
+# Third-party libraries
+pandas
+openai
+python-docx
+
+# Standard libraries (included with Python, listed for completeness)
+# os
+# csv
+# collections
