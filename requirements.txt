@@ -1,9 +1,14 @@
 # Third-party libraries
-pandas
+
 openai
+langchain
+pandas
+numpy
 python-docx
 
 # Standard libraries (included with Python, listed for completeness)
+# The following are standard libraries and do not need to be installed via pip:
 # os
 # csv
 # collections
+# typing
